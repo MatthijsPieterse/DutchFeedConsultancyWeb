@@ -1,0 +1,246 @@
+{
+  "header": {
+    "eyebrow": "Dutch Feed Consultancy",
+    "title": "Consultancy & Services",
+    "intro": "Independent nutrition expertise across the full spectrum of production species — from aquafeed to petfood, from single-question feasibility to long-term partnership."
+  },
+  "speciesSection": {
+    "eyebrow": "Species expertise",
+    "title": "The Animals I Work With",
+    "intro": "Hover over a card — or tap on mobile — to explore species, expertise, and key focus areas for each animal category."
+  },
+  "species": [
+    {
+      "emoji": "",
+      "label": "Aquatic Animals",
+      "color": "#2b79c2",
+      "image": "/images/species/aquatic-animals.jpg",
+      "attribution": { "sourceUrl": "https://unsplash.com/photos/a-fish-that-is-swimming-in-some-water-aOQ4hX4KCyk", "license": "Unsplash License", "licenseUrl": "https://unsplash.com/license" },
+      "species": [
+        "Salmon & Trout",
+        "Tilapia",
+        "African Catfish",
+        "Shrimp",
+        "Carp",
+        "Sea bass & Sea bream"
+      ],
+      "description": "Aquafeed is one of the most technically demanding areas of feed formulation — species vary enormously in digestive physiology, nutrient requirements, and palatability. I have hands-on experience formulating for freshwater and marine species across multiple production systems, including recirculating aquaculture systems (RAS) and pond culture.",
+      "tags": [
+        "Fishmeal replacement",
+        "RAS diets",
+        "Marine vs. freshwater",
+        "Crustacean nutrition",
+        "Digestibility coefficients"
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Frogs & Reptiles",
+      "color": "#9a7220",
+      "image": "/images/species/bullfrog.jpg",
+      "attribution": { "source": "Pexels", "sourceUrl": "https://www.pexels.com/photo/american-bullfrog-27647914/", "license": "Pexels License", "licenseUrl": "https://www.pexels.com/license/" },
+      "species": [
+        "Bull Frogs",
+        "Tiger Frogs",
+        "Crocodiles"
+      ],
+      "description": "Frogs & reptiles face some specific challenges conserning pathogens due to an environment of water and air. Fast growing animals require some specific nutrional attention. ",
+      "tags": [
+        "Fishmeal replacement",
+        "Ingredient profiling",
+        "additives",
+        "Survival rate"
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Dogs & Cats",
+      "color": "#3d6b4a",
+      "image": "/images/species/dogs-and-cats.jpg",
+      "attribution": { "source": "Unsplash", "sourceUrl": "https://unsplash.com/photos/white-and-brown-long-coat-large-dog-U3aF7hgUSrk", "license": "Unsplash License", "licenseUrl": "https://unsplash.com/license" },
+      "species": ["Dogs — all life stages", "Cats — all life stages"],
+      "description": "Petfood nutrition has its own regulatory framework (FEDIAF guidelines) and specific considerations — dogs with their special need of good quality feed in dry pelleted form or extruded – cats as obligate carnivores, the need for taurine and arachidonic acid, and the unique challenges of palatability-driven formulation.",
+      "tags": [
+        "FEDIAF guidelines",
+        "Life-stage formulation",
+        "Wet and dry formats",
+        "Taurine in cat diets",
+        "Palatability"
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Poultry",
+      "color": "#c8391f",
+      "image": "/images/species/poultry.jpg",
+      "attribution": { "source": "Unsplash", "sourceUrl": "https://unsplash.com/photos/selective-focus-photography-of-brown-hen-auijD19Byq8", "license": "Unsplash License", "licenseUrl": "https://unsplash.com/license" },
+      "species": ["Broilers", "Layers", "Turkeys", "Ducks", "Quail", "Geese"],
+      "description": "Poultry nutrition is characterized by tight margins, high performance expectations, and significant sensitivity to feed quality. Possible work includes diet formulation for broilers and layers, additive evaluation (enzymes, acidifiers, additives), and premix specification.",
+      "tags": [
+        "Broiler diets",
+        "Layer nutrition",
+        "Enzyme applications",
+        "Protein and amino acid optimalisation",
+        "Phase feeding"
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Pigs",
+      "color": "#bd5c6e",
+      "image": "/images/species/pigs.jpg",
+      "attribution": { "source": "Unsplash", "sourceUrl": "https://unsplash.com/photos/a-group-of-pigs-in-a-pen-vMjrs3C50d8", "license": "Unsplash License", "licenseUrl": "https://unsplash.com/license" },
+      "species": [
+        "Sows & Gilts",
+        "Piglets (pre- and post-weaning)",
+        "Growers",
+        "Finishers"
+      ],
+      "description": "Pig nutrition requires particular attention to the transition periods — especially weaning and gilt development. I provide advice on complete diets, SCFA applications for gut health, and reduction strategies in antibiotic-free or reduced programs.",
+      "tags": [
+        "Post-weaning diets",
+        "Gut health additives",
+        "SCFA applications",
+        "Antibiotic reduction",
+        "Sow nutrition",
+        "Protein and amino acids optimalisation",
+        "Digestibility factors"
+      ]
+    },
+    {
+      "emoji": "",
+      "label": "Ruminants",
+      "color": "#0d2244",
+      "image": "/images/species/ruminants.jpg",
+      "attribution": { "source": "Unsplash", "sourceUrl": "https://unsplash.com/photos/brown-and-white-cow-on-green-grass-field-during-daytime-4MQtWCxUrYc", "license": "Unsplash License", "licenseUrl": "https://unsplash.com/license" },
+      "species": [
+        "Dairy cattle",
+        "Beef cattle",
+        "Veal calves",
+        "Sheep",
+        "Goats"
+      ],
+      "description": "Ruminant nutrition spans a wide range of production goals — milk yield, milk composition, growth rate, and reproductive performance. Services include premix formulation, total mixed ration (TMR) optimization, and trace element and vitamin specification.",
+      "tags": [
+        "TMR optimization",
+        "Premix and mineral formulation",
+        "Trace minerals",
+        "Transition cow nutrition",
+        "Protein and amino acids optimalisation"
+      ]
+    }
+  ],
+  "overview": { "eyebrow": "What I offer", "title": "Service Overview" },
+  "sections": [
+    {
+      "id": "advisory",
+      "image": "/images/services/advisory.jpg",
+      "imageAlt": "Laboratory analysis and diet formulation work",
+      "title": "Nutritional Advisory",
+      "intro": "Science-based nutritional advice from raw material selection to final ration — delivered independently, without supplier bias. Every recommendation is grounded in current literature and verified against practical experience across species.",
+      "services": [
+        {
+          "title": "Diet formulation & optimization",
+          "text": "Full ration formulation and reformulation for all species, built in Bestmix with validated nutrient matrices. Covers energy system selection (DE, ME, NE), amino acid requirement setting, and least-cost optimization within your raw material constraints and budget targets."
+        },
+        {
+          "title": "Feasibility studies — additives",
+          "text": "Independent evaluation of feed additives including enzymes, organic acids (SCFA), yeasts and yeast derivates, mycotoxin binders, and probiotics. Includes systematic literature review, dose-response assessment, species-specific applicability, and return-on-investment estimation."
+        },
+        {
+          "title": "Feasibility studies — raw materials",
+          "text": "Assessment of new or alternative raw materials and co-products — wet and dry. Covers digestibility coefficients, quality risk, batch variability, safe inclusion levels, and interaction effects with other dietary components."
+        },
+        {
+          "title": "Compound feed, ration & premix advice",
+          "text": "Critical review and targeted optimization of existing compound feed formulations, total mixed rations (TMR), and premix specifications for any production species. Ideal for matching formulations for research or setting up formulations for testing additives & minerals."
+        }
+      ]
+    },
+    {
+      "id": "technical",
+      "image": "/images/services/technical-support.jpg",
+      "imageAlt": "Feed mill and raw material handling",
+      "title": "Technical Support",
+      "intro": "Practical support at the place where nutrition becomes feed — the mill, the farm, or the field. Combining formulation knowledge with process awareness to resolve issues that purely desk-based analysis cannot catch.",
+      "services": [
+        {
+          "title": "On-site support at client locations",
+          "text": "Hands-on technical assistance at feed mills, commercial farms, exhibitions, and aquaculture facilities. Scope includes production troubleshooting, raw material evaluation at goods receipt, process audits (pelleting temperatures, mixer uniformity), and performance investigation."
+        },
+        {
+          "title": "Bestmix formulation system setup & maintenance",
+          "text": "Building and maintaining complete Bestmix environments — nutrient matrices with species-appropriate coefficients, ingredient libraries, energy systems, constraint structures, and labelling configurations. Suitable for new implementations or rebuilding the formulation set-up."
+        },
+        {
+          "title": "Energy calculation & requirement setting",
+          "text": "Reviewing and correctly configuring energy systems (DE, ME, NE) and nutritional requirement profiles in Bestmix for each target species and production stage. Includes validation against published standards and in-house performance data."
+        }
+      ]
+    },
+    {
+      "id": "rawmaterials",
+      "image": "/images/services/raw-materials.jpg",
+      "imageAlt": "Grain fields and agricultural co-products",
+      "title": "Raw Materials & Co-Products",
+      "intro": "Co-products and alternative ingredients offer real cost and sustainability advantages, but only when their variability, quality risks, and interaction effects are properly managed. I provide both the nutritional analysis and the procurement frameworks to use them confidently.",
+      "services": [
+        {
+          "title": "Wet co-products",
+          "text": "Evaluation, quality monitoring, and safe inclusion protocols for wet by-products: distillers' grains (DDGS wet), potato steam peels, brewery spent grains, starch fractions, dairy whey, and other moisture-rich industrial by-products. Includes mycotoxin and contamination risk assessment."
+        },
+        {
+          "title": "Dry co-products & alternative proteins",
+          "text": "Assessment of dry co-products and protein sources including DDGS, canola/rapeseed meal, sunflower meal, insect meal (BSF, mealworm), single-cell proteins, and regional agricultural by-products. Covers nutrient matrix development, anti-nutritional factors, and validated inclusion levels per species."
+        },
+        {
+          "title": "Raw material knowledge training",
+          "text": "Structured knowledge transfer for procurement and nutritional teams on the origin, processing methods, nutritional composition, quality indicators, and risk profile of each raw material category in their portfolio. Building up a raw material matrix jointly. Delivered on-site or remotely."
+        }
+      ]
+    },
+    {
+      "id": "training",
+      "image": "/images/services/huvepharma_presentation.jpeg",
+      "imageAlt": "In-company training session on feed additives",
+      "attribution": {
+        "source": "Rik Pieterse",
+        "sourceUrl": "",
+        "license": "All rights reserved",
+        "licenseUrl": ""
+      },
+      "title": "Courses & Training",
+      "intro": "Customer-specific courses designed around your team, your species, and your current knowledge level — not generic slide decks. All courses are available in Dutch or English and can be delivered on-site or as interactive remote sessions.",
+      "services": [
+        {
+          "title": "Raw material knowledge course",
+          "text": "A practical course on the raw materials your company buys and uses — covering origin, processing, nutritional value, typical quality ranges, quality indicators to use at reception, and key risks per ingredient category. Customized to your actual ingredient portfolio."
+        },
+        {
+          "title": "Feed additives: yeasts & enzymes",
+          "text": "In-depth training on yeast-based products (live yeast, yeast cell wall fractions, beta-glucans, MOS) and enzymes (phytases, NSP-degrading carbohydrases, proteases) — modes of action, substrate specificity, thermostability, selection criteria, and application by species."
+        },
+        {
+          "title": "Feed additives: SCFA & organic acids",
+          "text": "Understanding short-chain and medium-chain fatty acid products, organic acid blends, and acidifier applications — antimicrobial mechanisms, gut acidification, gastric pH management, and practical selection in antibiotic-reduced or antibiotic-free production programs."
+        },
+        {
+          "title": "Feed additives: mycotoxin management",
+          "text": "Comprehensive mycotoxin risk management: mycotoxin types and producing fungi, sampling strategies, analytical methods, risk thresholds by species, binder technology types (bentonite, HSCAS, yeast cell wall, enzyme-based), efficacy evaluation, and regulatory context in the EU."
+        }
+      ]
+    }
+  ],
+  "bestmix": {
+    "eyebrow": "Software",
+    "title": "Bestmix Formulation",
+    "text": "All formulation work is carried out in Bestmix — the industry-standard feed formulation platform. This includes building ingredient libraries, setting nutritional requirements, configuring energy systems, running least-cost optimizations, and maintaining audit-ready formulation records. I can also set up or rebuild your company's Bestmix environment from scratch.",
+    "stat": "25+",
+    "statLabel": "Years with Bestmix"
+  },
+  "cta": {
+    "title": "Need independent nutritional advice?",
+    "text": "Reach out to discuss your species, challenge, or project — all enquiries are welcome.",
+    "button": "Get in touch"
+  }
+}

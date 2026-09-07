@@ -1,0 +1,34 @@
+[
+  {
+    "image": "/images/carousel/serengeti.jpg",
+    "imageAlt": "Aquatic animals in clear water",
+    "attribution": { "source": "Unsplash", "sourceUrl": "https://unsplash.com/photos/brown-tree-on-surrounded-by-brown-grass-during-golden-hour-60XLoOgwkfA", "license": "Unsplash License", "licenseUrl": "https://unsplash.com/license" },
+    "label": "Aquatic Animals",
+    "heading": "Precision Nutrition for Fish, Shrimp & Beyond",
+    "subheading": "Tailored aquafeed formulations grounded in physiology and practical field experience."
+  },
+  {
+    "image": "/images/carousel/raw-materials.jpg",
+    "imageAlt": "Agricultural field at sunset",
+    "attribution": { "source": "Unsplash", "sourceUrl": "https://unsplash.com/photos/two-persons-standing-on-wheat-field-J33qmCVr02A", "license": "Unsplash License", "licenseUrl": "https://unsplash.com/license" },
+    "label": "Raw Materials",
+    "heading": "From Raw Material to Finished Feed",
+    "subheading": "Deep knowledge of co-products, additives, and formulation tools including Bestmix."
+  },
+  {
+    "image": "/images/carousel/ruminants.jpg",
+    "imageAlt": "Dairy cattle in a field",
+    "attribution": { "source": "Unsplash", "sourceUrl": "https://unsplash.com/photos/a-herd-of-cows-standing-on-top-of-a-lush-green-field-UdhpcfImQ9Y", "license": "Unsplash License", "licenseUrl": "https://unsplash.com/license" },
+    "label": "Ruminants & Livestock",
+    "heading": "Ruminants, Pigs, Poultry — All Species Covered",
+    "subheading": "Comprehensive ration advice, premix formulation, and additive feasibility studies."
+  },
+  {
+    "image": "/images/carousel/poultry.jpg",
+    "imageAlt": "Poultry in a farm setting",
+    "attribution": { "source": "Unsplash", "sourceUrl": "https://unsplash.com/photos/selective-focus-photography-of-brown-hen-auijD19Byq8", "license": "Unsplash License", "licenseUrl": "https://unsplash.com/license" },
+    "label": "Poultry",
+    "heading": "Independent Expertise You Can Build On",
+    "subheading": "One specialist, no compromises — consultancy focused entirely on your results."
+  }
+]

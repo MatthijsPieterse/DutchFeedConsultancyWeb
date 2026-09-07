@@ -1,0 +1,91 @@
+{
+  "header": { "eyebrow": "Dutch Feed Consultancy", "title": "About Me" },
+  "portrait": {
+    "image": "/images/about/RikPieterse.jpeg",
+    "alt": "Portrait of the consultant",
+    "attribution": {
+      "source": "Rik Pieterse",
+      "sourceUrl": "",
+      "license": "All rights reserved",
+      "licenseUrl": ""
+    }
+  },
+  "contactHeading": "Contact",
+  "messageButton": "Send an e-mail",
+  "background": {
+    "eyebrow": "Background",
+    "title": "Independent Animal Nutrition Consultant",
+    "paragraphs": [
+      "Dutch Feed Consultancy is an independent, one-person advisory practice based in the Netherlands. My work focuses on practical, science-based nutritional advice for the animal feed industry — from raw material evaluation and additive assessment to full recipe and ration formulation and on-site technical support.",
+      "My background spans both academic training in animal nutrition and extensive hands-on experience working with feed producers, farmers, and ingredient suppliers worldwide. Over the years I have built expertise across a deliberately wide range of species: aquatic animals (fish, shrimp, and amphibians), poultry, pigs, ruminants, companion animals (dogs and cats), and insects. This range is not incidental — working across species sharpens your understanding of what is fundamental to nutrition and what is truly species-specific.",
+      "I work primarily with additive companies, compound feed producers, premix manufacturers, raw material suppliers, and commercial farms seeking independent technical input. Projects range from single-question feasibility studies for a new additive to multi-month optimization programmes involving complete diet reformulation and system rebuilds in Bestmix.",
+      "Being a sole practitioner means every client works directly with me — no hand-offs, no junior consultants. I keep my client base deliberately manageable to ensure the quality and depth of attention each project deserves."
+    ]
+  },
+  "expertise": {
+    "title": "Areas of Expertise",
+    "items": [
+      {
+        "color": "#2b79c2",
+        "title": "Formulation & Advisory",
+        "items": [
+          "Diet formulation & optimisation (Bestmix)",
+          "Compound feed, ration & premix advice",
+          "Energy system calculations (DE, ME, NE)",
+          "Nutritional requirement settings and derived nutrient calculations",
+          "This can be build in bestmix with the customer"
+        ]
+      },
+      {
+        "color": "#c8391f",
+        "title": "Additives & Specialties",
+        "items": [
+          "Enzymes & yeasts applications",
+          "Pre-, Pro-, Postbiotics applications",
+          "SCFA and organic acid applications",
+          "Mycotoxin risk management",
+          "Additive feasibility & ROI studies"
+        ]
+      },
+      {
+        "color": "#3d6b4a",
+        "title": "Raw Materials",
+        "items": [
+          "Wet and dry co-product evaluation",
+          "Alternative protein assessment",
+          "Ingredient nutrient matrix development",
+          "Quality risk and variability management"
+        ]
+      },
+      {
+        "color": "#9a7220",
+        "title": "Training & Support",
+        "items": [
+          "Customer-specific technical courses",
+          "Raw material knowledge training",
+          "Joint visits to customers",
+          "On-site troubleshooting",
+          "Presentations and expert panel participation",
+          "Bestmix system setup & maintenance"
+        ]
+      }
+    ]
+  },
+  "approach": {
+    "title": "How I Work",
+    "items": [
+      {
+        "title": "Independent",
+        "text": "Advice is based on nutritional evidence, economics, and what works for your operation."
+      },
+      {
+        "title": "Practical",
+        "text": "Recommendations need to work at the mill, on the farm, or in the field — not just in a spreadsheet."
+      },
+      {
+        "title": "Direct",
+        "text": "You work directly with the consultant doing the work. Clear communication, no hand-offs, and no unnecessary layers."
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "introStrip": "Independent animal nutrition consultancy — The Netherlands",
+  "aboutButton": "About the consultant",
+  "species": {
+    "eyebrow": "Species expertise",
+    "title": "All Major Animal Categories",
+    "intro": "From fish and shrimp to ruminants — broad, cross-species experience means advice that travels across production systems, not just within one. Hover or tap a card to explore."
+  },
+  "services": {
+    "eyebrow": "What I offer",
+    "title": "Consultancy & Services",
+    "button": "All services →",
+    "highlights": [
+      {
+        "icon": "advisory",
+        "title": "Nutritional Advisory",
+        "text": "Evidence-based feed formulation and dietary advice for all production species, from feasibility to final ration."
+      },
+      {
+        "icon": "support",
+        "title": "On-Site Technical Support",
+        "text": "Hands-on support at client facilities — from feed mill audits to ration troubleshooting and Bestmix system setup."
+      },
+      {
+        "icon": "additives",
+        "title": "Additives & Raw Materials",
+        "text": "Feasibility studies for additives including enzymes, yeasts, SCFA, and mycotoxin binders. As well as raw materials and wet & dry co-product evaluation."
+      },
+      {
+        "icon": "training",
+        "title": "Courses & Training",
+        "text": "Customer-specific courses on raw material knowledge, additive science, and Bestmix formulation — delivered on-site or remotely."
+      }
+    ]
+  },
+  "news": {
+    "eyebrow": "Latest updates",
+    "title": "News & Projects",
+    "button": "All news →"
+  },
+  "cta": {
+    "title": "Looking for independent nutrition advice?",
+    "text": "Get in touch to discuss your challenge — no obligation, no sales pitch.",
+    "button": "Contact me"
+  }
+}

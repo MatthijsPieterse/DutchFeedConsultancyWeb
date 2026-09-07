@@ -1,0 +1,34 @@
+{
+  "companyName": "Dutch Feed Consultancy",
+  "favicon": "/images/site/logoFavicon.ico",
+  "logoNav": "/images/site/logoHorizontal.webp",
+  "logo": "/images/site/logo.webp",
+  "logoAttribution": {
+    "source": "Rik Pieterse",
+    "sourceUrl": "",
+    "license": "All rights reserved",
+    "licenseUrl": ""
+  },
+  "navigation": [
+    { "label": "Home", "page": "home" },
+    { "label": "Services", "page": "services" },
+    { "label": "News", "page": "news" },
+    { "label": "About", "page": "about" }
+  ],
+  "contact": {
+    "email": "info@dutchfeedconsultancy.nl",
+    "phone": "+31 6 35317400",
+    "location": "The Netherlands",
+    "languages": "Dutch, English, German",
+    "companyNumber": "KvK — 63990474"
+  },
+  "footer": {
+    "description": "Independent animal nutrition consultancy with expertise spanning aquatic species, livestock, poultry, companion animals, and insects.",
+    "copyright": "Dutch Feed Consultancy. All rights reserved."
+  },
+  "news": {
+    "eyebrow": "Dutch Feed Consultancy",
+    "title": "News & Projects",
+    "intro": "Field reports, event recaps, and summaries of recent consultancy projects — all in one place."
+  }
+}
