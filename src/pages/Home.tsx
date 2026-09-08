@@ -48,7 +48,7 @@ export default function Home({ navigate, openNewsPost }: HomeProps) {
     <div>
       <ImageCarousel />
       <div className="bg-navy text-white py-8 px-6">
-        <div className="max-w-6xl mx-auto flex flex-col md:flex-row items-center justify-between gap-4">
+        <div className="max-w-7xl mx-auto flex flex-col md:flex-row items-center justify-between gap-4">
           <p
             className="font-display font-semibold text-lg text-blue-muted"
           >
@@ -64,7 +64,7 @@ export default function Home({ navigate, openNewsPost }: HomeProps) {
       </div>
 
       <section className="py-16 px-6 bg-cream">
-        <div className="max-w-6xl mx-auto">
+        <div className="max-w-7xl mx-auto">
           <div className="mb-10">
             <span className="text-xs font-display font-bold uppercase tracking-widest text-red">
               {homeContent.species.eyebrow}
@@ -98,7 +98,7 @@ export default function Home({ navigate, openNewsPost }: HomeProps) {
       </section>
 
       <section className="py-16 px-6 bg-white">
-        <div className="max-w-6xl mx-auto">
+        <div className="max-w-7xl mx-auto">
           <div className="mb-10 flex flex-col md:flex-row md:items-end justify-between gap-4">
             <div>
               <span className="text-xs font-display font-bold uppercase tracking-widest text-red">
@@ -138,7 +138,7 @@ export default function Home({ navigate, openNewsPost }: HomeProps) {
       </section>
 
       {newsPosts.length > 0 && <section className="py-16 px-6 bg-cream">
-        <div className="max-w-6xl mx-auto">
+        <div className="max-w-7xl mx-auto">
           <div className="mb-10 flex flex-col md:flex-row md:items-end justify-between gap-4">
             <div>
               <span className="text-xs font-display font-bold uppercase tracking-widest text-red">
@@ -200,7 +200,7 @@ export default function Home({ navigate, openNewsPost }: HomeProps) {
       </section>}
 
       <section className="py-14 px-6 bg-red">
-        <div className="max-w-6xl mx-auto flex flex-col md:flex-row items-center justify-between gap-6">
+        <div className="max-w-7xl mx-auto flex flex-col md:flex-row items-center justify-between gap-6">
           <div>
             <h2 className="font-display font-extrabold text-2xl md:text-3xl text-white">
               {homeContent.cta.title}

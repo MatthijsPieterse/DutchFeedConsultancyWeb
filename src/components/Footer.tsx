@@ -12,7 +12,7 @@ export default function Footer({ navigate }: FooterProps) {
   )
   return (
     <footer className="bg-navy text-white">
-      <div className="max-w-6xl mx-auto px-6 py-14 grid grid-cols-1 md:grid-cols-3 gap-10">
+      <div className="max-w-7xl mx-auto px-6 py-14 grid grid-cols-1 md:grid-cols-3 gap-10">
         <div>
           <div className="inline-block rounded-xl overflow-hidden bg-[#F3F4F1] p-3 mb-4">
             <img
@@ -72,7 +72,7 @@ export default function Footer({ navigate }: FooterProps) {
       </div>
       <div className="border-t border-navy-light">
         <div
-          className="max-w-6xl mx-auto px-6 py-4 flex items-center justify-between text-xs text-[#6b8aaa]"
+          className="max-w-7xl mx-auto px-6 py-4 flex items-center justify-between text-xs text-[#6b8aaa]"
         >
           <span>
             © {new Date().getFullYear()} {siteContent.footer.copyright}

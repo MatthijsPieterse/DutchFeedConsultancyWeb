@@ -15,7 +15,7 @@ export default function Navbar({ currentPage, navigate }: NavbarProps) {
   )
   return (
     <header className="sticky top-0 z-50 bg-white border-b border-warm-gray shadow-sm">
-      <div className="max-w-6xl mx-auto px-6 flex items-center justify-between h-20">
+      <div className="max-w-7xl mx-auto px-6 flex items-center justify-between h-20">
         <button
           onClick={() => navigate("home")}
           className="flex h-full min-h-0 items-center gap-3 overflow-hidden focus:outline-none"

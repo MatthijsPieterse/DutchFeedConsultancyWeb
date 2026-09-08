@@ -5,7 +5,7 @@ export default function About() {
   return (
     <div className="bg-cream min-h-full">
       <div className="bg-navy text-white py-14 px-6">
-        <div className="max-w-6xl mx-auto">
+        <div className="max-w-7xl mx-auto">
           <span
             className="text-xs font-display font-bold uppercase tracking-widest text-blue-muted"
           >
@@ -16,7 +16,7 @@ export default function About() {
           </h1>
         </div>
       </div>
-      <div className="max-w-6xl mx-auto px-6 py-14">
+      <div className="max-w-7xl mx-auto px-6 py-14">
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-10 items-start">
           <div className="lg:col-span-1 space-y-6">
             <div className="rounded-xl overflow-hidden shadow-sm bg-warm-gray aspect-square">

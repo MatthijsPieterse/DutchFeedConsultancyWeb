@@ -45,7 +45,7 @@ export default function ImageCarousel() {
       </div>
 
       <div
-        className={`relative z-10 h-full flex flex-col justify-end max-w-6xl mx-auto px-6 pb-16 transition-opacity duration-500 ${transitioning ? "opacity-0" : "opacity-100"}`}
+        className={`relative z-10 h-full flex flex-col justify-end max-w-7xl mx-auto px-6 pb-16 transition-opacity duration-500 ${transitioning ? "opacity-0" : "opacity-100"}`}
       >
         <span
           className="inline-block mb-3 text-xs font-display font-bold uppercase tracking-widest px-3 py-1 rounded-full w-fit bg-red text-white"

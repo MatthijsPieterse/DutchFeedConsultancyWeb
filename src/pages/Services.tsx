@@ -15,7 +15,7 @@ export default function Services({ navigate }: ServicesProps) {
   return (
     <div className="bg-cream min-h-full">
       <div className="bg-navy text-white py-14 px-6">
-        <div className="max-w-6xl mx-auto">
+        <div className="max-w-7xl mx-auto">
           <span
             className="text-xs font-display font-bold uppercase tracking-widest text-blue-muted"
           >
@@ -30,7 +30,7 @@ export default function Services({ navigate }: ServicesProps) {
         </div>
       </div>
       <section className="py-14 px-6 bg-white">
-        <div className="max-w-6xl mx-auto">
+        <div className="max-w-7xl mx-auto">
           <div className="mb-10">
             <span className="text-xs font-display font-bold uppercase tracking-widest text-red">
               {servicesContent.speciesSection.eyebrow}
@@ -63,7 +63,7 @@ export default function Services({ navigate }: ServicesProps) {
         </div>
       </section>
       <section className="py-14 px-6 bg-cream">
-        <div className="max-w-6xl mx-auto space-y-12">
+        <div className="max-w-7xl mx-auto space-y-12">
           <div>
             <span className="text-xs font-display font-bold uppercase tracking-widest text-red">
               {servicesContent.overview.eyebrow}
@@ -132,7 +132,7 @@ export default function Services({ navigate }: ServicesProps) {
         </div>
       </section>
       <section className="py-12 px-6 bg-white border-t border-warm-gray">
-        <div className="max-w-6xl mx-auto flex flex-col md:flex-row items-center gap-8">
+        <div className="max-w-7xl mx-auto flex flex-col md:flex-row items-center gap-8">
           <div className="flex-1">
             <span className="text-xs font-display font-bold uppercase tracking-widest text-blue">
               {servicesContent.bestmix.eyebrow}
@@ -159,7 +159,7 @@ export default function Services({ navigate }: ServicesProps) {
         </div>
       </section>
       <section className="py-14 px-6 bg-red">
-        <div className="max-w-6xl mx-auto flex flex-col md:flex-row items-center justify-between gap-6">
+        <div className="max-w-7xl mx-auto flex flex-col md:flex-row items-center justify-between gap-6">
           <div>
             <h2 className="font-display font-extrabold text-2xl md:text-3xl text-white">
               {servicesContent.cta.title}

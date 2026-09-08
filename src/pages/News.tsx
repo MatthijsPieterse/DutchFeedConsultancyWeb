@@ -26,7 +26,7 @@ function formatDate(date: string) {
 function NewsHeader() {
   return (
     <div className="bg-navy text-white py-14 px-6">
-      <div className="max-w-6xl mx-auto">
+      <div className="max-w-7xl mx-auto">
         <span
           className="text-xs font-display font-bold uppercase tracking-widest text-blue-muted"
         >
@@ -131,7 +131,7 @@ export default function News({ slug, openPost, showListing }: NewsProps) {
     <div className="bg-cream min-h-full">
       <NewsHeader />
       <div className="bg-white border-b border-warm-gray sticky top-20 z-20">
-        <div className="max-w-6xl mx-auto px-6 py-3 flex gap-2 overflow-x-auto">
+        <div className="max-w-7xl mx-auto px-6 py-3 flex gap-2 overflow-x-auto">
           {categories.map((category) => (
             <button
               key={category}
@@ -147,7 +147,7 @@ export default function News({ slug, openPost, showListing }: NewsProps) {
           ))}
         </div>
       </div>
-      <div className="max-w-6xl mx-auto px-6 py-12 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+      <div className="max-w-7xl mx-auto px-6 py-12 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
         {filtered.map((item) => (
           <article
             key={item.slug}
