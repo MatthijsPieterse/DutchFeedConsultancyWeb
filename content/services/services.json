@@ -2,12 +2,12 @@
   "header": {
     "eyebrow": "Dutch Feed Consultancy",
     "title": "Consultancy & Services",
-    "intro": "Independent nutrition expertise across the full spectrum of production species — from aquafeed to petfood, from single-question feasibility to long-term partnership."
+    "intro": "Independent nutrition expertise across the full spectrum of production species — from aquafeed to petfood, from single-question assignments to long-term partnerships."
   },
   "speciesSection": {
     "eyebrow": "Species expertise",
     "title": "The Animals I Work With",
-    "intro": "Hover over a card — or tap on mobile — to explore species, expertise, and key focus areas for each animal category."
+    "intro": "Hover over a card — or tap on mobile — to explore expertise, example species, and key focus areas for each animal category."
   },
   "species": [
     {
@@ -22,7 +22,7 @@
         "African Catfish",
         "Shrimp",
         "Carp",
-        "Sea bass & Sea bream"
+        "Sea Bass & Sea Bream"
       ],
       "description": "Aquafeed is one of the most technically demanding areas of feed formulation — species vary enormously in digestive physiology, nutrient requirements, and palatability. I have hands-on experience formulating for freshwater and marine species across multiple production systems, including recirculating aquaculture systems (RAS) and pond culture.",
       "tags": [
@@ -35,7 +35,7 @@
     },
     {
       "emoji": "",
-      "label": "Frogs & Reptiles",
+      "label": "Amphibians & Reptiles",
       "color": "#9a7220",
       "image": "/images/species/bullfrog.jpg",
       "attribution": { "source": "Pexels", "sourceUrl": "https://www.pexels.com/photo/american-bullfrog-27647914/", "license": "Pexels License", "licenseUrl": "https://www.pexels.com/license/" },
@@ -44,7 +44,7 @@
         "Tiger Frogs",
         "Crocodiles"
       ],
-      "description": "Frogs & reptiles face some specific challenges conserning pathogens due to an environment of water and air. Fast growing animals require some specific nutrional attention. ",
+      "description": "Amphibians and reptiles face some specific challenges concerning pathogens due to an environment of both water and air. Such animals require specialised nutritional attention. ",
       "tags": [
         "Fishmeal replacement",
         "Ingredient profiling",
@@ -59,7 +59,7 @@
       "image": "/images/species/dogs-and-cats.jpg",
       "attribution": { "source": "Unsplash", "sourceUrl": "https://unsplash.com/photos/white-and-brown-long-coat-large-dog-U3aF7hgUSrk", "license": "Unsplash License", "licenseUrl": "https://unsplash.com/license" },
       "species": ["Dogs — all life stages", "Cats — all life stages"],
-      "description": "Petfood nutrition has its own regulatory framework (FEDIAF guidelines) and specific considerations — dogs with their special need of good quality feed in dry pelleted form or extruded – cats as obligate carnivores, the need for taurine and arachidonic acid, and the unique challenges of palatability-driven formulation.",
+      "description": "Petfood nutrition has its own regulatory framework (FEDIAF guidelines) and specific considerations — dogs with their special need of good quality feed in dry pelleted or extruded form – cats as obligate carnivores, with the need for taurine and arachidonic acid, and the unique challenges of palatability-driven formulation.",
       "tags": [
         "FEDIAF guidelines",
         "Life-stage formulation",
@@ -96,11 +96,11 @@
         "Growers",
         "Finishers"
       ],
-      "description": "Pig nutrition requires particular attention to the transition periods — especially weaning and gilt development. I provide advice on complete diets, SCFA applications for gut health, and reduction strategies in antibiotic-free or reduced programs.",
+      "description": "Pig nutrition requires particular attention to the transition periods — especially weaning and gilt development. I provide advice on complete diets, SCFA and MCFA applications for gut health, and reduction strategies in antibiotic-free or reduced programs.",
       "tags": [
         "Post-weaning diets",
         "Gut health additives",
-        "SCFA applications",
+        "SCFA, MCFA applications",
         "Antibiotic reduction",
         "Sow nutrition",
         "Protein and amino acids optimalisation",
@@ -114,9 +114,9 @@
       "image": "/images/species/ruminants.jpg",
       "attribution": { "source": "Unsplash", "sourceUrl": "https://unsplash.com/photos/brown-and-white-cow-on-green-grass-field-during-daytime-4MQtWCxUrYc", "license": "Unsplash License", "licenseUrl": "https://unsplash.com/license" },
       "species": [
-        "Dairy cattle",
-        "Beef cattle",
-        "Veal calves",
+        "Dairy Cattle",
+        "Beef Cattle",
+        "Veal Calves",
         "Sheep",
         "Goats"
       ],
@@ -134,7 +134,7 @@
   "sections": [
     {
       "id": "advisory",
-      "image": "/images/services/advisory.jpg",
+      "image": "/images/services/advisory.png",
       "imageAlt": "Laboratory analysis and diet formulation work",
       "title": "Nutritional Advisory",
       "intro": "Science-based nutritional advice from raw material selection to final ration — delivered independently, without supplier bias. Every recommendation is grounded in current literature and verified against practical experience across species.",
@@ -145,7 +145,7 @@
         },
         {
           "title": "Feasibility studies — additives",
-          "text": "Independent evaluation of feed additives including enzymes, organic acids (SCFA), yeasts and yeast derivates, mycotoxin binders, and probiotics. Includes systematic literature review, dose-response assessment, species-specific applicability, and return-on-investment estimation."
+          "text": "Independent evaluation of feed additives including enzymes, organic acids, SCFA, MCFA, yeasts and yeast derivatives, mycotoxin binders, and probiotics. Includes systematic literature review, dose-response assessment, species-specific applicability, and return-on-investment estimation."
         },
         {
           "title": "Feasibility studies — raw materials",
@@ -159,7 +159,7 @@
     },
     {
       "id": "technical",
-      "image": "/images/services/technical-support.jpg",
+      "image": "/images/services/frogFarm.jpg",
       "imageAlt": "Feed mill and raw material handling",
       "title": "Technical Support",
       "intro": "Practical support at the place where nutrition becomes feed — the mill, the farm, or the field. Combining formulation knowledge with process awareness to resolve issues that purely desk-based analysis cannot catch.",
@@ -210,7 +210,7 @@
         "licenseUrl": ""
       },
       "title": "Courses & Training",
-      "intro": "Customer-specific courses designed around your team, your species, and your current knowledge level — not generic slide decks. All courses are available in Dutch or English and can be delivered on-site or as interactive remote sessions.",
+      "intro": "Customer-specific courses designed around your team, your species, and your current knowledge level — not generic slide decks. All courses are available in Dutch, German or English and can be delivered on-site or as interactive remote sessions.",
       "services": [
         {
           "title": "Raw material knowledge course",
@@ -221,7 +221,7 @@
           "text": "In-depth training on yeast-based products (live yeast, yeast cell wall fractions, beta-glucans, MOS) and enzymes (phytases, NSP-degrading carbohydrases, proteases) — modes of action, substrate specificity, thermostability, selection criteria, and application by species."
         },
         {
-          "title": "Feed additives: SCFA & organic acids",
+          "title": "Feed additives: SCFA, MCFA, and organic acids",
           "text": "Understanding short-chain and medium-chain fatty acid products, organic acid blends, and acidifier applications — antimicrobial mechanisms, gut acidification, gastric pH management, and practical selection in antibiotic-reduced or antibiotic-free production programs."
         },
         {

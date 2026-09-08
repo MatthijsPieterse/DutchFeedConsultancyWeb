@@ -40,6 +40,12 @@ export default function About() {
               <dl className="space-y-4 text-sm">
                 <div>
                   <dt className="text-xs text-muted-text uppercase tracking-wide font-semibold">
+                    Consultant
+                  </dt>
+                  <dd className="text-navy">{contact.name}</dd>
+                </div>
+                <div>
+                  <dt className="text-xs text-muted-text uppercase tracking-wide font-semibold">
                     Email
                   </dt>
                   <dd>

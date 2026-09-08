@@ -116,7 +116,7 @@ export default function FlipCard({
               <p
                 className="text-white text-xs font-bold uppercase tracking-wider mb-1.5 opacity-[0.65]"
               >
-                Species
+                Example Species
               </p>
               <div className="flex flex-wrap gap-1">
                 {species.map((s) => (

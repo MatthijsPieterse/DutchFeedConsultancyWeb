@@ -16,14 +16,15 @@
     { "label": "About", "page": "about" }
   ],
   "contact": {
+    "name": "ing. Rik Pieterse M.Sc.",
     "email": "info@dutchfeedconsultancy.nl",
     "phone": "+31 6 35317400",
-    "location": "The Netherlands",
+    "location": "The Netherlands — Worldwide",
     "languages": "Dutch, English, German",
     "companyNumber": "KvK — 63990474"
   },
   "footer": {
-    "description": "Independent animal nutrition consultancy with expertise spanning aquatic species, livestock, poultry, companion animals, and insects.",
+    "description": "Independent animal nutrition consultancy with expertise spanning aquatic species, amphibians, reptiles, livestock, poultry, companion animals, and insects.",
     "copyright": "Dutch Feed Consultancy. All rights reserved."
   },
   "news": {

@@ -14,7 +14,7 @@ export default function Footer({ navigate }: FooterProps) {
     <footer className="bg-navy text-white">
       <div className="max-w-6xl mx-auto px-6 py-14 grid grid-cols-1 md:grid-cols-3 gap-10">
         <div>
-          <div className="inline-block rounded-xl overflow-hidden mb-4">
+          <div className="inline-block rounded-xl overflow-hidden bg-[#F3F4F1] p-3 mb-4">
             <img
               src={assetUrl(siteContent.logo)}
               alt={siteContent.companyName}
