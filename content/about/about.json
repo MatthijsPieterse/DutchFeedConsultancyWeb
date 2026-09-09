@@ -1,7 +1,7 @@
 {
   "header": { "eyebrow": "Dutch Feed Consultancy", "title": "About Me" },
   "portrait": {
-    "image": "/images/about/RikPieterse.jpeg",
+    "image": "/images/about/RikPieterse.webp",
     "alt": "Portrait of the consultant",
     "attribution": {
       "source": "Rik Pieterse",
@@ -17,7 +17,7 @@
     "title": "Independent Animal Nutrition Consultant",
     "paragraphs": [
       "Dutch Feed Consultancy is an independent, one-person advisory practice based in the Netherlands, available worldwide. My work focuses on practical, science-based nutritional advice for the animal feed industry — from raw material evaluation and additive assessment to full recipe and ration formulation and on-site technical support.",
-      "My background spans both academic training (at Wageningen University) in animal nutrition and extensive hands-on experience working with feed producers, farmers, and ingredient suppliers worldwide. Over the years I have built expertise across a deliberately wide range of species: aquatic animals (fish, shrimp), amphibians, reptiles, poultry, pigs, ruminants, companion animals (dogs and cats), and insects. This range is not incidental — working across species sharpens your understanding of what is fundamental to nutrition and what is truly species-specific.",
+      "My background spans both academic training (at Wageningen University) in animal nutrition and extensive hands-on experience working with feed producers, farmers, and ingredient suppliers worldwide. Over the years, I have built expertise across a deliberately wide range of species: aquatic animals (fish, shrimp), amphibians, reptiles, poultry, pigs, ruminants, companion animals (dogs and cats), and insects. This range is not incidental — working across species sharpens your understanding of what is fundamental to nutrition and what is truly species-specific.",
       "I work primarily with additive companies, compound feed producers, premix manufacturers, raw material suppliers, and commercial farms seeking independent technical input. Projects range from single-question feasibility studies for a new additive to multi-month optimization programmes involving complete diet reformulation and system rebuilds in Bestmix.",
       "Being a sole practitioner means every client works directly with me — no hand-offs, no junior consultants. I keep my client base deliberately manageable to ensure the quality and attention each project deserves."
     ]

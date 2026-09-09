@@ -14,7 +14,7 @@
       "emoji": "",
       "label": "Aquatic Animals",
       "color": "#2b79c2",
-      "image": "/images/species/aquatic-animals.jpg",
+      "image": "/images/species/aquatic-animals.webp",
       "attribution": { "sourceUrl": "https://unsplash.com/photos/a-fish-that-is-swimming-in-some-water-aOQ4hX4KCyk", "license": "Unsplash License", "licenseUrl": "https://unsplash.com/license" },
       "species": [
         "Salmon & Trout",
@@ -37,7 +37,7 @@
       "emoji": "",
       "label": "Amphibians & Reptiles",
       "color": "#9a7220",
-      "image": "/images/species/bullfrog.jpg",
+      "image": "/images/species/bullfrog.webp",
       "attribution": { "source": "Pexels", "sourceUrl": "https://www.pexels.com/photo/american-bullfrog-27647914/", "license": "Pexels License", "licenseUrl": "https://www.pexels.com/license/" },
       "species": [
         "Bull Frogs",
@@ -56,7 +56,7 @@
       "emoji": "",
       "label": "Dogs & Cats",
       "color": "#3d6b4a",
-      "image": "/images/species/dogs-and-cats.jpg",
+      "image": "/images/species/dogs-and-cats.webp",
       "attribution": { "source": "Unsplash", "sourceUrl": "https://unsplash.com/photos/white-and-brown-long-coat-large-dog-U3aF7hgUSrk", "license": "Unsplash License", "licenseUrl": "https://unsplash.com/license" },
       "species": ["Dogs — all life stages", "Cats — all life stages"],
       "description": "Petfood nutrition has its own regulatory framework (FEDIAF guidelines) and specific considerations — dogs with their special need of good quality feed in dry pelleted or extruded form – cats as obligate carnivores, with the need for taurine and arachidonic acid, and the unique challenges of palatability-driven formulation.",
@@ -72,7 +72,7 @@
       "emoji": "",
       "label": "Poultry",
       "color": "#c8391f",
-      "image": "/images/species/poultry.jpg",
+      "image": "/images/species/poultry.webp",
       "attribution": { "source": "Unsplash", "sourceUrl": "https://unsplash.com/photos/selective-focus-photography-of-brown-hen-auijD19Byq8", "license": "Unsplash License", "licenseUrl": "https://unsplash.com/license" },
       "species": ["Broilers", "Layers", "Turkeys", "Ducks", "Quail", "Geese"],
       "description": "Poultry nutrition is characterized by tight margins, high performance expectations, and significant sensitivity to feed quality. Possible work includes diet formulation for broilers and layers, additive evaluation (enzymes, acidifiers, additives), and premix specification.",
@@ -88,7 +88,7 @@
       "emoji": "",
       "label": "Pigs",
       "color": "#bd5c6e",
-      "image": "/images/species/pigs.jpg",
+      "image": "/images/species/pigs.webp",
       "attribution": { "source": "Unsplash", "sourceUrl": "https://unsplash.com/photos/a-group-of-pigs-in-a-pen-vMjrs3C50d8", "license": "Unsplash License", "licenseUrl": "https://unsplash.com/license" },
       "species": [
         "Sows & Gilts",
@@ -111,7 +111,7 @@
       "emoji": "",
       "label": "Ruminants",
       "color": "#0d2244",
-      "image": "/images/species/ruminants.jpg",
+      "image": "/images/species/ruminants.webp",
       "attribution": { "source": "Unsplash", "sourceUrl": "https://unsplash.com/photos/brown-and-white-cow-on-green-grass-field-during-daytime-4MQtWCxUrYc", "license": "Unsplash License", "licenseUrl": "https://unsplash.com/license" },
       "species": [
         "Dairy Cattle",
@@ -134,7 +134,7 @@
   "sections": [
     {
       "id": "advisory",
-      "image": "/images/services/advisory.png",
+      "image": "/images/services/advisory.webp",
       "imageAlt": "Laboratory analysis and diet formulation work",
       "title": "Nutritional Advisory",
       "intro": "Science-based nutritional advice from raw material selection to final ration — delivered independently, without supplier bias. Every recommendation is grounded in current literature and verified against practical experience across species.",
@@ -159,7 +159,7 @@
     },
     {
       "id": "technical",
-      "image": "/images/services/frogFarm.jpg",
+      "image": "/images/services/frogFarm.webp",
       "imageAlt": "Feed mill and raw material handling",
       "title": "Technical Support",
       "intro": "Practical support at the place where nutrition becomes feed — the mill, the farm, or the field. Combining formulation knowledge with process awareness to resolve issues that purely desk-based analysis cannot catch.",
@@ -180,7 +180,7 @@
     },
     {
       "id": "rawmaterials",
-      "image": "/images/services/raw-materials.jpg",
+      "image": "/images/services/raw-materials.webp",
       "imageAlt": "Grain fields and agricultural co-products",
       "title": "Raw Materials & Co-Products",
       "intro": "Co-products and alternative ingredients offer real cost and sustainability advantages, but only when their variability, quality risks, and interaction effects are properly managed. I provide both the nutritional analysis and the procurement frameworks to use them confidently.",
@@ -201,7 +201,7 @@
     },
     {
       "id": "training",
-      "image": "/images/services/huvepharma_presentation.jpeg",
+      "image": "/images/services/huvepharma_presentation.webp",
       "imageAlt": "In-company training session on feed additives",
       "attribution": {
         "source": "Rik Pieterse",
